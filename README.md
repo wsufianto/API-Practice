@@ -1,2 +1,3 @@
 # exercise-fetch
-Testing Fetch from API and display to HTML
+
+Practising with Fetching data from API using Javascript and displaying the result to HTML.
